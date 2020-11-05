@@ -1,0 +1,40 @@
+.jumbotron {
+    background: url("img/img5.jpg") center no-repeat ;
+    background-size: cover;
+    background-position: center 60%;
+    object-fit: fill;
+  }
+.jumbotron h1{
+    color:white;
+}
+.jumbotron p{
+    color:white;
+}
+.jumbotron span{
+    color:red;
+}
+.row{
+    /* padding-right: 6.25rem; */
+    /* padding-left: 12rem; */
+}
+.list-group{
+    float:left;
+    
+}
+.card-img-top{
+    width:120px;
+    height:120px;
+    margin:0 auto;
+}
+.card-text{
+    font-size:7px;
+}
+.card-price{
+    font-weight: bold;
+    text-align: right;
+    padding-right: 8px;
+}
+.card{
+    margin:10px 0;
+}
+
